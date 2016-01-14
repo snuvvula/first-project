@@ -1,0 +1,85 @@
+.header{
+
+height: 40px;
+    background: -webkit-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); /* Standard syntax (must be last) */
+}
+body{
+	background-color: #d0e4fe;
+
+}
+
+p{
+
+	 font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: left;
+}
+h2{
+	text-align: left;
+	color: red;
+ font-size: 8 px;
+ #event{
+ 	text-align: left;
+	color: red;
+ font-size: 2em;
+ }
+}
+a:hover {
+	background-color: black;
+}
+h3{
+
+text-align: center;
+	color: red;
+	padding: 10px 10px 10px 10px;
+	margin:10px 10px 10px 10px;
+
+}
+h4{
+
+	text-align: center;
+	color: black;
+
+}
+
+li { 
+	display: inline;
+	padding: 50px;
+	margin: 20px;
+}
+input[type=text] {
+    width: 40%;
+    padding: 12px 20px
+margin: 8px 0;
+    box-sizing: border-box;
+}
+#rugby{
+
+	margin-left: 500 px;
+	margin-top: 300 px;
+}
+
+h1{
+	text-align: center;
+	color: red;
+ font-size: 8 px;
+}
+
+.footer{
+
+height: 40px;
+    background: -webkit-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); /* Standard syntax (must be last) */
+}
+
+#body{
+
+	float: right;
+    margin: 0 0 10px 10px;
+
+}
